@@ -1,5 +1,7 @@
 # JSON Web Token with Java Example
 
+[Tutorial](https://developer.okta.com/blog/2018/10/31/jwts-with-java)
+
 This example app shows how to use [JJWT](https://github.com/jwtk/jjwt) to encode and decode a simple JSON Web Token.
 
 <!-- Add link to blog post here -->
